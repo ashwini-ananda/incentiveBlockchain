@@ -158,11 +158,11 @@ return (
                       
                       this.correct(0)
                       
-                    }} id="no1"><a href="#">Correct/Good Answer</a></div>
+                    }} id="no1"><a href="#">Verify Answer</a></div>
       <div id="line1"></div>
-      <div onClick={this.wrong} id="no1"><a href="#">Incorrect/ Bad Answer</a></div>
+      <div onClick={this.wrong} id="no1"><a href="#">Correct/ Good Answer</a></div>
       <div id="line1"></div>
-      <div id="no1"><a href="#">End and Enter Game</a></div>
+      <div id="no1"><a href="#">Incorrect/ Bad Answer</a></div>
       </div>
 
        
